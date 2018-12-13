@@ -1,3 +1,3 @@
 # Work in progress..
-[Go here!](awesome.disi.tech)
+[Go here!](https://awesome.disi.tech)
 
